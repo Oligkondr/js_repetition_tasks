@@ -10,6 +10,6 @@ const superQuiz = () => {
             console.log(i);
         }
     }
-}
+};
 
 console.log(superQuiz());
