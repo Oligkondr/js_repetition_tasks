@@ -6,3 +6,4 @@ const line = (start, end) => {
     return result.trim();
 };
 console.log(line(5, 20));
+console.log(line(-5, 5));
